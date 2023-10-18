@@ -144,7 +144,13 @@ const ProductDetails = async ({ params: { id } }: Props) => {
                           />
                       </div>
                   </div>
+
+                  Modal
               </div>
+          </div>
+
+          <div className="flex">
+            
           </div>
     </div>
   )
